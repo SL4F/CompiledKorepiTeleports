@@ -30,3 +30,6 @@ ___
 - click on all to enable all
 - click on "select" in command to the first one
 - teleport to the next location using right bracket or previous location using left bracket, or optionally automatically teleport
+___
+### Credits
+- Many users from the Korepi discord.
