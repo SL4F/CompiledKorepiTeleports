@@ -9,6 +9,7 @@ ___
 #### Requirements
 - Korepi [[Link](https://github.com/Korepi/Korepi)]
 - Anime Game
+- A Brain
 #### Setup
 - Download the contents of this repo
 - Extract the zip file into your Korepi teleports folder
